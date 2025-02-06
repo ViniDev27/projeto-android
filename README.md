@@ -1,1 +1,1 @@
-Aqui está a URL do meu site: https://vinidev27.github.io/projeto-android/
+Aqui está a URL do site que eu criei no curso de HTML e CSS: https://vinidev27.github.io/projeto-android/
